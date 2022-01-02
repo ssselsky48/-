@@ -102,3 +102,11 @@
 
 ### 15) git bisect
 #### Команда git bisect — это чрезвычайно полезная утилита для поиска коммита в котором впервые проявился баг или проблема с помощью автоматического бинарного поиска.
+
+# ЛР 8. Flexbox и CSS Grid
+### Flexbox
+![FliexBox Froggy](https://user-images.githubusercontent.com/60671160/147886603-6173dd2c-8994-4432-b337-bc90e437a586.png)
+
+### CSS Grid
+![Grid Garden](https://user-images.githubusercontent.com/60671160/147886605-ff5d60bc-6401-4a60-8116-049b06b81589.png)
+
