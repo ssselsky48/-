@@ -109,4 +109,3 @@
 
 ### CSS Grid
 ![Grid Garden](https://user-images.githubusercontent.com/60671160/147886605-ff5d60bc-6401-4a60-8116-049b06b81589.png)
-
