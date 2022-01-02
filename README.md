@@ -28,4 +28,8 @@
 ![О кафедре](https://user-images.githubusercontent.com/60671160/147883985-a0d07917-08f5-4a65-9693-656d51d49405.png)
 ### Страница "Завкафедрой" мобильная версия
 ![Завкафедрой](https://user-images.githubusercontent.com/60671160/147883990-2f34758d-1eb1-4991-baae-c011c1317f6e.png)
+### Меню ПК-версия
+![Меню(уч дет)](https://user-images.githubusercontent.com/60671160/147884036-f01cf377-ca41-419b-ae87-03bea0a399d4.png)
+### Меню мобильная версия
+![Всплывающее меню](https://user-images.githubusercontent.com/60671160/147884045-498a5f51-4a42-4649-a37f-5a06596f5f14.png)
 
